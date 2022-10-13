@@ -41,3 +41,7 @@ Content-Length: 128
 ### 技术信息
 
 - [HTTP 头部列表](/zh-CN/docs/Web/HTTP/Headers)
+POST /myform.html HTTP/1.1
+Host: developer.mozilla.org
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:50.0) Gecko/20100101 Firefox/50.0
+Content-Length: 128
